@@ -16,7 +16,7 @@ Hola, soy Kevin. Futuro desarrollador de aplicaciones web
 |     2|    Inglés     |
 |     3|    Alemán     |
 
-HTML
+
 <details>
 <sumary>Lenguajes</symary>
   
