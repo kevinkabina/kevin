@@ -1,0 +1,7 @@
+1.Inicio
+2.Leer base_mayor
+3.Leer base_menor
+4.Leer altura 
+5.Área <- (Base_mayor + Base_menor) * Altura / 2
+6.Mostrar área
+7.Fin
